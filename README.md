@@ -12,4 +12,8 @@ Performance, anti-patterns e stacks pra desenvolver e-commerce, com cases reais
 Javascript, Ruby, Python e o mercado para os próximos anos                
 **Palestrante:** Alysson Franklin                  
 **Assuntos:** JavaScript, Ruby, Python, Java Books e Tableless                  
-([link](https://www.youtube.com/watch?v=SpW9hikuR84))           
+([link](https://www.youtube.com/watch?v=SpW9hikuR84)) 
+
+Meet React (Criando aplicações web com ReactJS)
+**Palestrante:** Raphael Amorim
+([link](https://www.youtube.com/watch?v=8DQngR34Q5s))
