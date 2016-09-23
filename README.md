@@ -14,6 +14,6 @@ Javascript, Ruby, Python e o mercado para os próximos anos
 **Assuntos:** JavaScript, Ruby, Python, Java Books e Tableless                  
 ([link](https://www.youtube.com/watch?v=SpW9hikuR84)) 
 
-Meet React (Criando aplicações web com ReactJS)
-**Palestrante:** Raphael Amorim
-([link](https://www.youtube.com/watch?v=8DQngR34Q5s))
+Meet React (Criando aplicações web com ReactJS)             
+**Palestrante:** Raphael Amorim       
+([link](https://www.youtube.com/watch?v=8DQngR34Q5s))  
