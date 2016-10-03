@@ -1,4 +1,6 @@
-# Palestras
+# Palestras Web Trends
+
+- 2016 - 
 
 Aplicações Web, um estudo sobre React - RSJS 2016                                                 
 **Palestrante:** Jean Carlo Emer                                                                                       
