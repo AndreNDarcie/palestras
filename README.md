@@ -1,6 +1,6 @@
 # Palestras Web Trends Brazil (PT-BR)
 
-- Melhores de 2016
+- Melhores de 2016 :trophy:
 
 Aplicações Web, um estudo sobre React - RSJS 2016                                                 
 **Palestrante:** Jean Carlo Emer                                                                                       
