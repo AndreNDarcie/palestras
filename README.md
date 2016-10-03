@@ -1,4 +1,4 @@
-# Palestras Web Trends Brazil (pt-br)
+# Palestras Web Trends Brazil (PT-BR)
 
 - 2016
 
