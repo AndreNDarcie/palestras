@@ -16,10 +16,10 @@
 **Palestrante:** Fabio Akita                                                                         
 **Assuntos:** Importância dos Testes, Code Climate, New Relic, CDN, Heroku, Pusher, SEO e The Twelve-Factor App  
 **Video:** ([link](https://www.youtube.com/watch?v=a2GElG2yDq4))
-
-- Melhores de 2015 :trophy:
-
-####ES6, o que tem de bacana? - BrazilJS 2015
-**Palestrante:** Jonathan Sampson
-**Assuntos:** ECMAScript 6, TypeScript, BabelJS e [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-**Video:** ([link](https://www.youtube.com/watch?v=VHRdSnJbNLg))
+  
+- Melhores de 2015 :trophy:    
+   
+####ES6, o que tem de bacana? - BrazilJS 2015        
+**Palestrante:** Jonathan Sampson         
+**Assuntos:** ECMAScript 6, TypeScript, BabelJS e [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)         
+**Video:** ([link](https://www.youtube.com/watch?v=VHRdSnJbNLg))     
