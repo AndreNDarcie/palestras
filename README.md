@@ -21,5 +21,5 @@
    
 ####ES6, o que tem de bacana? - BrazilJS 2015        
 **Palestrante:** Jonathan Sampson         
-**Assuntos:** ECMAScript 6, TypeScript, BabelJS e [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)         
+**Assuntos:** ECMAScript 6, TypeScript, [BabelJS](https://babeljs.io/) e [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)   
 **Video:** ([link](https://www.youtube.com/watch?v=VHRdSnJbNLg))     
