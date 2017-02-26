@@ -1,4 +1,4 @@
-# Palestras Web Trends Brazil (PT-BR)
+# Palestras Web Trends Brazil
 
 - Melhores de 2016 :trophy:
 
