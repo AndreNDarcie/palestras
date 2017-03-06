@@ -1,4 +1,4 @@
-# Palestras Web [PT-BR]
+# Palestras Web 
 
 - Melhores de 2016 :trophy:
 
